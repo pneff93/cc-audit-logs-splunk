@@ -4,6 +4,7 @@ This repository sets up a fully managed pipeline to define alerts in Splunk base
 
 ![](./images/overview.png)
 
+
 ## Requirements
 * Dedicated CC cluster (required for Cluster Linking)
 * Splunk instance
